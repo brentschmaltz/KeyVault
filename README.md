@@ -1,2 +1,2 @@
 # KeyVault
-Example using KeyVault and hooking into token decryption
+Example showing how to using extensibility with KeyVault
